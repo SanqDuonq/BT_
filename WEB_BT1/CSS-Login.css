@@ -1,0 +1,48 @@
+﻿.form-login{
+   
+    width : 700px;
+    height :auto;
+    border-radius:10px;
+}
+.picture-login {
+    width: 700px;
+    height: 400px;
+    padding: 20px 10px 20px 10px;
+}
+.form-login1{
+    display:flex;
+}
+.User1 {
+    width: 75%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top:5px;
+    margin-bottom: 10px;
+}
+.User2 {
+    width: 75%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.button-login {
+    width: 76%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 5px;
+
+}
+.forget-user {
+    padding-left: 310px;
+    color: blue;
+}
+.create-acc {
+    padding-left: 250px;
+    text-decoration-line: none;
+    color: blue;
+}
+.User3{
+    margin-top: 5px;
+ 
+}

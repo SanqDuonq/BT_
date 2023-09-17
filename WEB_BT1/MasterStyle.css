@@ -1,0 +1,66 @@
+﻿ .header {
+     max-width : 100%;
+     height : auto;
+     background-color: gray;
+    
+     
+}
+ .logo{
+     width : 200px;
+     height : auto;
+     
+ }
+ .menu_main{
+     float:right;
+     display:flex;
+     text-align : center;
+     margin-right:400px;
+
+ }
+ .menu_main li{
+     display : flex;
+     padding: 0px 10px;
+     color : white;
+     
+     
+ }
+body {
+    padding: 0;
+    margin: 0;
+}
+.item-grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: minmax(0,auto);
+    gap: 15px;
+}
+.prices{
+    text-align : center;
+}
+.product_title{
+    text-align : center;
+}
+.picture {
+    text-align: center;
+}
+.banner {
+    text-align: center;
+    font-style: italic;
+    margin-top : 20px;
+}
+.logo1{
+    width:200px;
+    height : auto;
+} 
+
+.footer-logo{
+    background-color : black;
+    width : 100%;
+    height :auto;
+    margin-top:10px;
+}
+.footer-details{
+    color : white;
+    display:flex;
+}
+    

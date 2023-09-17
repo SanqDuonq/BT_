@@ -1,0 +1,75 @@
+﻿.Code-introduce{
+    width : 200%;
+    border-radius: 8px;
+    height : 30px;
+    margin-top : 10px;
+    margin-bottom: 10px;
+}
+.FName {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.email {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.telephone {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.User-name1 {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.password {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ConfirmPass {
+    width: 200%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.SignUPP {
+    width: 203%;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #0066CC;
+}
+.date-month-year {
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.date1,month1,year1{
+    width : 40px;
+    height : 30px;
+}
+.loginnn {
+    color: #0066CC;
+    text-decoration-line :none;
+}
+.form-dangki{
+    display:flex;
+}
